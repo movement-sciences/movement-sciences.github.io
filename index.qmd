@@ -1,9 +1,7 @@
 ---
-title: "Welcome to the Movement Science Course Demo!"
+title: "Welcome to the IMSI Movement Science Course!"
 ---
 
-We can use Quarto to have a public facing website that is hosted on Github. Github can host all the code and PDF files, but videos are best hosted on YouTube.
+The **Integrative Movement Sciences Institute (IMSI)** is a National Science Foundation (NSF) Biology Integration Institute dedicated to advancing the understanding of muscular control of movement across organizational scales—from molecular to organismal and ecological.
 
-We could alternatively format this in a more linear book format. See an example here: <https://jjallaire.github.io/hopr/dice.html>
-
-Or more examples quarto websites and books here: <https://quarto.org/docs/gallery/#websites>
+Our team of leading researchers from universities across the United States is creating a free, fully online course designed to share the excitement of movement science. The course is organized into individual modules covering a variety of movement science topics, which can be explored on their own or combined into curated learning pathways. You can browse modules to find those that spark your curiosity, or follow a recommended pathway to dive deeper into a specific area of the field.

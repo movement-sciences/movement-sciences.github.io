@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Movement Science Course Demo"
+  title: "IMSI Movement Science Course"
   
   navbar:
     left:
@@ -16,7 +16,13 @@ website:
       - icon: github
         href: https://github.com
       - icon: youtube
-        href: https://youtube.com
+        href: https://www.youtube.com/@IntegrativeMovementScience
+      - icon: instagram
+        href: https://www.instagram.com/integrative.movement.science/ 
+      - icon: linkedin
+        href: https://www.linkedin.com/company/integrative-movement-sciences-institute/
+      - text: bluesky
+        href: https://bsky.app/profile/movementscience.bsky.social
       
     
       

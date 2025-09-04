@@ -43,5 +43,23 @@
   },
   "all-modules/sensory-feedback.qmd": {
     "sensory-feedback.html": "a98f58a5"
+  },
+  "paths-folder/motor-control-path.qmd": {
+    "motor-control-path.html": "fc535cba"
+  },
+  "paths-folder/intro-pathway.qmd": {
+    "intro-pathway.html": "0089ef21"
+  },
+  "paths-folder/modeling-path.qmd": {
+    "modeling-path.html": "75081ac2"
+  },
+  "paths-folder/biomechanics-path.qmd": {
+    "biomechanics-path.html": "1a35a605"
+  },
+  "paths-folder/data-analysis-path.qmd": {
+    "data-analysis-path.html": "1a39b142"
+  },
+  "paths-folder/muscle-phys-path.qmd": {
+    "muscle-phys-path.html": "688f4e38"
   }
 }

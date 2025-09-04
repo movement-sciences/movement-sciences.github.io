@@ -1,10 +1,14 @@
 ---
 title: "Joint-level work loops"
-toc: false
+toc: false # toc = table of contents displayed for the page
 presenter: Dr. GS
 complexity: intermediate
 topic: [muscle physiology, exp design]
 ---
+
+<!-- use the options above to add characteristics for this page that you can then filter by in the all-modules page -->
+
+<!-- search for different text types or code chunks by starting with the "/" command  -->
 
 ## Learning objectives
 

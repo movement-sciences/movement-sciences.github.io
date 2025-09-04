@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome to the Movement Science Course Demo!",
+    "title": "Welcome to the IMSI Movement Science Course!",
     "section": "",
-    "text": "We can use Quarto to have a public facing website that is hosted on Github. Github can host all the code and PDF files, but videos are best hosted on YouTube.\nWe could alternatively format this in a more linear book format. See an example here: https://jjallaire.github.io/hopr/dice.html\nOr more examples quarto websites and books here: https://quarto.org/docs/gallery/#websites"
+    "text": "The Integrative Movement Sciences Institute (IMSI) is a National Science Foundation (NSF) Biology Integration Institute dedicated to advancing the understanding of muscular control of movement across organizational scales—from molecular to organismal and ecological.\nOur team of leading researchers from universities across the United States is creating a free, fully online course designed to share the excitement of movement science. The course is organized into individual modules covering a variety of movement science topics, which can be explored on their own or combined into curated learning pathways. You can browse modules to find those that spark your curiosity, or follow a recommended pathway to dive deeper into a specific area of the field."
   },
   {
     "objectID": "all_modules.html",
@@ -18,7 +18,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Include information about IMSI here"
+    "text": "Include information about IMSI here\nWe can use Quarto to have a public facing website that is hosted on Github. Github can host all the code and PDF files, but videos are best hosted on YouTube.\nWe could alternatively format this in a more linear book format. See an example here: https://jjallaire.github.io/hopr/dice.html\nOr more examples quarto websites and books here: https://quarto.org/docs/gallery/#websites"
   },
   {
     "objectID": "all-modules/joint-level-work-loops.html",
@@ -53,7 +53,7 @@
     "href": "pathways.html",
     "title": "Learning Pathways",
     "section": "",
-    "text": "We’ve curated the movement science content into pathways made up of 3-5 modules that can help you get up to speed or learn about specific topics. Choose a pathway below to get started.\n(Right now the only one I’ve populated a bit to show capability is the Biomechanics pathway in the topic-based category.)"
+    "text": "We’ve curated the movement science content into pathways made up of 3-5 modules that can help you get up to speed or learn about specific topics. Choose a pathway below to get started."
   },
   {
     "objectID": "pathways.html#topic-based-pathways",
@@ -96,5 +96,68 @@
     "title": "Biomechanics",
     "section": "Workshop #2 Title",
     "text": "Workshop #2 Title\n\nLearning objectives\n\nasdf\nasdf\nasdf\n\n\n\nVideo title\n\n\nPresented by: asdf\n\n\nCode snippets and other subheadings"
+  },
+  {
+    "objectID": "paths-folder/biomechanics-path.html",
+    "href": "paths-folder/biomechanics-path.html",
+    "title": "Biomechanics",
+    "section": "",
+    "text": "Biomechanics is the study of…\nTo explore this topic, we will guide you through the following modules…"
+  },
+  {
+    "objectID": "paths-folder/biomechanics-path.html#welcome-to-biomechanics",
+    "href": "paths-folder/biomechanics-path.html#welcome-to-biomechanics",
+    "title": "Biomechanics",
+    "section": "",
+    "text": "Biomechanics is the study of…\nTo explore this topic, we will guide you through the following modules…"
+  },
+  {
+    "objectID": "paths-folder/biomechanics-path.html#workshop-1-title",
+    "href": "paths-folder/biomechanics-path.html#workshop-1-title",
+    "title": "Biomechanics",
+    "section": "Workshop #1 Title",
+    "text": "Workshop #1 Title\n\nLearning objectives\n\nasdf\nasdf\nasdf\n\n\n\nVideo title\n\n\nPresented by: asdf\n\n\nCode snippets and other subheadings\nDownload demo MATLAB code\nDownload a PDF"
+  },
+  {
+    "objectID": "paths-folder/biomechanics-path.html#workshop-2-title",
+    "href": "paths-folder/biomechanics-path.html#workshop-2-title",
+    "title": "Biomechanics",
+    "section": "Workshop #2 Title",
+    "text": "Workshop #2 Title\n\nLearning objectives\n\nasdf\nasdf\nasdf\n\n\n\nVideo title\n\n\nPresented by: asdf\n\n\nCode snippets and other subheadings"
+  },
+  {
+    "objectID": "paths-folder/intro-pathway.html",
+    "href": "paths-folder/intro-pathway.html",
+    "title": "Intro to Movement Sciences",
+    "section": "",
+    "text": "Coming soon!"
+  },
+  {
+    "objectID": "paths-folder/muscle-phys-path.html",
+    "href": "paths-folder/muscle-phys-path.html",
+    "title": "Muscle Physiology",
+    "section": "",
+    "text": "Coming soon!"
+  },
+  {
+    "objectID": "paths-folder/modeling-path.html",
+    "href": "paths-folder/modeling-path.html",
+    "title": "Models of Muscles and Movement",
+    "section": "",
+    "text": "Coming soon!"
+  },
+  {
+    "objectID": "paths-folder/motor-control-path.html",
+    "href": "paths-folder/motor-control-path.html",
+    "title": "Motor Control of Movement",
+    "section": "",
+    "text": "Coming soon!"
+  },
+  {
+    "objectID": "paths-folder/data-analysis-path.html",
+    "href": "paths-folder/data-analysis-path.html",
+    "title": "Data Analysis in Movement Sciences",
+    "section": "",
+    "text": "Coming soon!"
   }
 ]

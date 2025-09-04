@@ -3,23 +3,13 @@ title: "Learning Pathways"
 toc: false
 listing:
   - id: complexity-based
-    contents: "complexity-paths/*.qmd"
-    type: grid
-  - id: topic-based
-    contents: "topic-paths/*.qmd"
+    contents: "paths-folder/*.qmd"
     type: grid
 ---
 
 We’ve curated the movement science content into pathways made up of 3-5 modules that can help you get up to speed or learn about specific topics. Choose a pathway below to get started.
 
-**(Right now the only one I've populated a bit to show capability is the *Biomechanics* pathway in the topic-based category.)**
-
-## Topic-based pathways
-
 ::: {#topic-based}
 :::
 
-## Complexity-based pathways
-
-::: {#complexity-based}
-:::
+## 

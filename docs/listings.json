@@ -9,14 +9,12 @@
   {
     "listing": "/pathways.html",
     "items": [
-      "/complexity-paths/advanced-pathway.html",
-      "/complexity-paths/intermediate-pathway.html",
-      "/complexity-paths/intro-pathway.html",
-      "/topic-paths/biomechanics-path.html",
-      "/topic-paths/data-analysis-path.html",
-      "/topic-paths/modeling-path.html",
-      "/topic-paths/motor-control-path.html",
-      "/topic-paths/muscle-phys-path.html"
+      "/paths-folder/biomechanics-path.html",
+      "/paths-folder/data-analysis-path.html",
+      "/paths-folder/intro-pathway.html",
+      "/paths-folder/modeling-path.html",
+      "/paths-folder/motor-control-path.html",
+      "/paths-folder/muscle-phys-path.html"
     ]
   }
 ]
