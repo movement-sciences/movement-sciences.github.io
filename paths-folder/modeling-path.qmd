@@ -1,5 +1,5 @@
 ---
-title: "Models of Muscles and Movement"
+title: "Computational models and simulations"
 ---
 
 Coming soon!
