@@ -11,7 +11,7 @@
     "href": "all_modules.html",
     "title": "All modules",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Presenter\n        \n         \n          Complexity\n        \n         \n          Topic\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nPresenter\n\n\nComplexity\n\n\nTopic\n\n\n\n\n\n\nJoint-level work loops\n\n\nDr. GS\n\n\nintermediate\n\n\nmuscle physiology, exp design\n\n\n\n\nSensory feedback\n\n\nDr. JF, Dr. KS\n\n\nintermediate\n\n\nmotor control\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Presenter\n        \n         \n          Complexity\n        \n         \n          Topic\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nPresenter\n\n\nComplexity\n\n\nTopic\n\n\n\n\n\n\nData visualization and statistical inference for biomechanics\n\n\nDr. James Finley\n\n\nbeginner\n\n\ndata analysis\n\n\n\n\nJoint-level work loops\n\n\nDr. Greg Sawicki\n\n\nintermediate\n\n\nmuscle physiology, exp techniques\n\n\n\n\nSensory feedback\n\n\nDr. JF, Dr. KS\n\n\nintermediate\n\n\nmotor control\n\n\n\n\nThe brain and balance\n\n\nDr. Lena Ting\n\n\nintermediate\n\n\nsensorimotor control\n\n\n\n\nUltrasound Imaging\n\n\nDr. Luke Jessup\n\n\nintermediate\n\n\nexperimental techniques\n\n\n\n\nWork Loops 101\n\n\nDr. Simon Sponberg & Casey King\n\n\nbeginner\n\n\nexperimental techniques\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -25,14 +25,14 @@
     "href": "all-modules/joint-level-work-loops.html",
     "title": "Joint-level work loops",
     "section": "",
-    "text": "asdf\nasdf\nasdf\n\n\n\nPresented by: asdf\nYou can include links to files that are stored on the Github repo:\nDownload demo MATLAB code\nDownload a PDF\nWe can include Matlab script, though it won’t show outputs:\nx = 1\ny = 2\nz = x+y\nz\nThis is an example of an R script. It will print the output:\n\nx=1\ny=2\nz = x+y\nz\n\n[1] 3"
+    "text": "asdf\nasdf\nasdf\n\n\n\nPresented by: Dr. Greg Sawicki\nYou can include links to files that are stored on the Github repo:\nDownload demo MATLAB code\nDownload a PDF\nWe can include Matlab script, though it won’t show outputs:\nx = 1\ny = 2\nz = x+y\nz\nThis is an example of an R script. It will print the output:\n\nx=1\ny=2\nz = x+y\nz\n\n[1] 3"
   },
   {
     "objectID": "all-modules/joint-level-work-loops.html#learning-objectives",
     "href": "all-modules/joint-level-work-loops.html#learning-objectives",
     "title": "Joint-level work loops",
     "section": "",
-    "text": "asdf\nasdf\nasdf\n\n\n\nPresented by: asdf\nYou can include links to files that are stored on the Github repo:\nDownload demo MATLAB code\nDownload a PDF\nWe can include Matlab script, though it won’t show outputs:\nx = 1\ny = 2\nz = x+y\nz\nThis is an example of an R script. It will print the output:\n\nx=1\ny=2\nz = x+y\nz\n\n[1] 3"
+    "text": "asdf\nasdf\nasdf\n\n\n\nPresented by: Dr. Greg Sawicki\nYou can include links to files that are stored on the Github repo:\nDownload demo MATLAB code\nDownload a PDF\nWe can include Matlab script, though it won’t show outputs:\nx = 1\ny = 2\nz = x+y\nz\nThis is an example of an R script. It will print the output:\n\nx=1\ny=2\nz = x+y\nz\n\n[1] 3"
   },
   {
     "objectID": "all-modules/sensory-feedback.html",
@@ -142,14 +142,14 @@
   {
     "objectID": "paths-folder/modeling-path.html",
     "href": "paths-folder/modeling-path.html",
-    "title": "Models of Muscles and Movement",
+    "title": "Computational models and simulations",
     "section": "",
     "text": "Coming soon!"
   },
   {
     "objectID": "paths-folder/motor-control-path.html",
     "href": "paths-folder/motor-control-path.html",
-    "title": "Motor Control of Movement",
+    "title": "Neural and Sensorimotor Control of Movement",
     "section": "",
     "text": "Coming soon!"
   },
@@ -159,5 +159,89 @@
     "title": "Data Analysis in Movement Sciences",
     "section": "",
     "text": "Coming soon!"
+  },
+  {
+    "objectID": "all-modules/brain-and-balance.html",
+    "href": "all-modules/brain-and-balance.html",
+    "title": "The brain and balance",
+    "section": "",
+    "text": "asdf\nasdf\nasdf"
+  },
+  {
+    "objectID": "all-modules/brain-and-balance.html#learning-objectives",
+    "href": "all-modules/brain-and-balance.html#learning-objectives",
+    "title": "The brain and balance",
+    "section": "",
+    "text": "asdf\nasdf\nasdf"
+  },
+  {
+    "objectID": "all-modules/data-viz-stat-inf.html",
+    "href": "all-modules/data-viz-stat-inf.html",
+    "title": "Data visualization and statistical inference for biomechanics",
+    "section": "",
+    "text": "asdf\nasdf\nasdf"
+  },
+  {
+    "objectID": "all-modules/data-viz-stat-inf.html#learning-objectives",
+    "href": "all-modules/data-viz-stat-inf.html#learning-objectives",
+    "title": "Data visualization and statistical inference for biomechanics",
+    "section": "",
+    "text": "asdf\nasdf\nasdf"
+  },
+  {
+    "objectID": "all-modules/workloops-101.html",
+    "href": "all-modules/workloops-101.html",
+    "title": "Work Loops 101",
+    "section": "",
+    "text": "asdf\nasdf\nasdf"
+  },
+  {
+    "objectID": "all-modules/workloops-101.html#learning-objectives",
+    "href": "all-modules/workloops-101.html#learning-objectives",
+    "title": "Work Loops 101",
+    "section": "",
+    "text": "asdf\nasdf\nasdf"
+  },
+  {
+    "objectID": "all-modules/ultrasound-imaging.html",
+    "href": "all-modules/ultrasound-imaging.html",
+    "title": "Ultrasound Imaging",
+    "section": "",
+    "text": "asdf\nasdf\nasdf"
+  },
+  {
+    "objectID": "all-modules/ultrasound-imaging.html#learning-objectives",
+    "href": "all-modules/ultrasound-imaging.html#learning-objectives",
+    "title": "Ultrasound Imaging",
+    "section": "",
+    "text": "asdf\nasdf\nasdf"
+  },
+  {
+    "objectID": "all-modules/brain-and-balance.html#workshop",
+    "href": "all-modules/brain-and-balance.html#workshop",
+    "title": "The brain and balance",
+    "section": "Workshop",
+    "text": "Workshop\n\n\nPresented by: Dr. Lena Ting\nYou can include links to files that are stored on the Github repo:\nDownload demo MATLAB code\nDownload a PDF\nWe can include Matlab script, though it won’t show outputs:\nx = 1\ny = 2\nz = x+y\nz\nThis is an example of an R script. It will print the output:\n\nx=1\ny=2\nz = x+y\nz\n\n[1] 3"
+  },
+  {
+    "objectID": "all-modules/workloops-101.html#workshop",
+    "href": "all-modules/workloops-101.html#workshop",
+    "title": "Work Loops 101",
+    "section": "Workshop",
+    "text": "Workshop\n\n\nPresented by: Dr. Simon Sponberg & Casey King\nWe can include Matlab script, though it won’t show outputs:\nx = 1\ny = 2\nz = x+y\nz\nThis is an example of an R script. It will print the output:\n\nx=1\ny=2\nz = x+y\nz\n\n[1] 3"
+  },
+  {
+    "objectID": "all-modules/ultrasound-imaging.html#workshop",
+    "href": "all-modules/ultrasound-imaging.html#workshop",
+    "title": "Ultrasound Imaging",
+    "section": "Workshop",
+    "text": "Workshop\n\n\nPresented by: Dr. Luke Jessup\nWe can include Matlab script, though it won’t show outputs:\nx = 1\ny = 2\nz = x+y\nz\nThis is an example of an R script. It will print the output:\n\nx=1\ny=2\nz = x+y\nz\n\n[1] 3"
+  },
+  {
+    "objectID": "all-modules/data-viz-stat-inf.html#workshop",
+    "href": "all-modules/data-viz-stat-inf.html#workshop",
+    "title": "Data visualization and statistical inference for biomechanics",
+    "section": "Workshop",
+    "text": "Workshop\n\n\nPresented by: Dr. James Finley\nWe can include Matlab script, though it won’t show outputs:\nx = 1\ny = 2\nz = x+y\nz\nThis is an example of an R script. It will print the output:\n\nx=1\ny=2\nz = x+y\nz\n\n[1] 3"
   }
 ]

@@ -23,5 +23,5 @@ listing:
       topic: "Topic"
 ---
 
-:::{#all-modules}
+::: {#all-modules}
 :::

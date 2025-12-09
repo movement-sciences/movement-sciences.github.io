@@ -1,9 +1,9 @@
 ---
 title: "Joint-level work loops"
 toc: false # toc = table of contents displayed for the page
-presenter: Dr. GS
+presenter: Dr. Greg Sawicki
 complexity: intermediate
-topic: [muscle physiology, exp design]
+topic: [muscle physiology, exp techniques]
 ---
 
 <!-- use the options above to add characteristics for this page that you can then filter by in the all-modules page -->
@@ -20,7 +20,7 @@ topic: [muscle physiology, exp design]
 
 </iframe>
 
-***Presented by:*** *asdf*
+***Presented by:*** *Dr. Greg Sawicki*
 
 You can include links to files that are stored on the Github repo:
 

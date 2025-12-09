@@ -2,19 +2,23 @@
   {
     "listing": "/all_modules.html",
     "items": [
+      "/all-modules/data-viz-stat-inf.html",
       "/all-modules/joint-level-work-loops.html",
-      "/all-modules/sensory-feedback.html"
+      "/all-modules/sensory-feedback.html",
+      "/all-modules/brain-and-balance.html",
+      "/all-modules/ultrasound-imaging.html",
+      "/all-modules/workloops-101.html"
     ]
   },
   {
     "listing": "/pathways.html",
     "items": [
       "/paths-folder/biomechanics-path.html",
+      "/paths-folder/modeling-path.html",
       "/paths-folder/data-analysis-path.html",
       "/paths-folder/intro-pathway.html",
-      "/paths-folder/modeling-path.html",
-      "/paths-folder/motor-control-path.html",
-      "/paths-folder/muscle-phys-path.html"
+      "/paths-folder/muscle-phys-path.html",
+      "/paths-folder/motor-control-path.html"
     ]
   }
 ]

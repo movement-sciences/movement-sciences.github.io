@@ -61,5 +61,17 @@
   },
   "paths-folder/muscle-phys-path.qmd": {
     "muscle-phys-path.html": "688f4e38"
+  },
+  "all-modules/workloops-101.qmd": {
+    "workloops-101.html": "33ae3fa2"
+  },
+  "all-modules/data-viz-stat-inf.qmd": {
+    "data-viz-stat-inf.html": "3d523b9f"
+  },
+  "all-modules/ultrasound-imaging.qmd": {
+    "ultrasound-imaging.html": "d61cb4e4"
+  },
+  "all-modules/brain-and-balance.qmd": {
+    "brain-and-balance.html": "97584894"
   }
 }
