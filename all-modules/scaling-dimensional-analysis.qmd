@@ -1,0 +1,52 @@
+---
+title: "Scaling and dimensional analysis"
+toc: false
+presenter: [Dr. Monica Daley]
+complexity: beginner
+topic: [???]
+---
+
+## Learning objectives
+
+1.  Describe the basic energy fluctuation patterns of walking and running in terrestrial gaits, as approximated by spring-loaded inverted pendulum models
+
+2.  Understand the basic principles of scaling with geometric similarity (or isometry), and state predictions for changes in strength and loading with increasing body size under the predictions of geometric similarity.
+
+3.  State the dynamic similarity hypothesis, and be able to generate predictions for dimensionless quantities according to the predictions of dynamic similarity. 
+
+4.  Use an example data set on gait of running birds to investigate how stride length and stride frequency vary with size, and visualize how the variation collapses when data are normalized to dimensionless quantities.
+
+## Files used in this workshop
+
+Download the Matlab code and example data files used in this workshop:
+
+-   [Matlab script](..//resources/ScalingDimensionalAnalysis/ComparativeAvianScaling_Allbirds_25.m)
+
+-   [Birn_Jeffery_Daley_Table1.xlsx](..//resources/ScalingDimensionalAnalysis/Birn_Jeffery_Daley_Table1.xlsx)
+
+-   [Compiled_Data_SP_SL.xlsx](..//resources/ScalingDimensionalAnalysis/Compiled_Data_SP_SL.xlsx)
+
+-   [LiteratureGaitDataSummary.xlsx](..//resources/ScalingDimensionalAnalysis/LiteratureGaitDataSummary.xlsx)
+
+## Workshop 
+
+***Presented by:*** *Dr. Monica Daley*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ySWWyKLoL7M?si=SrzsyBw7GMkP_Z4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+</iframe>
+
+Matlab script description:
+
+``` matlab
+x = 1
+y = 2
+z = x+y
+z
+```
+
+## Additional reading
+
+[Alexander 1983](..//resources/ScalingDimensionalAnalysis/Alexander_1983_DynamicSimilarityHyp.pdf)\
+[McMahon and Cheng 1990](..//resources/ScalingDimensionalAnalysis/McMahon_and_Cheng1990.pdf)\
+[Daley and Birn-Jeffery 2018](..//resources/ScalingDimensionalAnalysis/Daley_BirnJeffery_2018.pdf)

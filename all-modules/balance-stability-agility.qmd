@@ -1,0 +1,39 @@
+---
+title: "Balance, stability, and agility"
+toc: false
+presenter: [Dr. Greg Sawicki]
+complexity: beginner
+topic: [motor control]
+---
+
+## Learning objectives
+
+1.  asdf
+2.  asdf
+3.  asdf
+
+## Workshop
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ixKBKdAvd8Q?si=pwB4KsXiGOAIPk_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+</iframe>
+
+***Presented by:*** *Dr. James Finley*
+
+We can include Matlab script, though it won't show outputs:
+
+``` matlab
+x = 1
+y = 2
+z = x+y
+z
+```
+
+This is an example of an R script. It will print the output:
+
+```{r}
+x=1
+y=2
+z = x+y
+z
+```

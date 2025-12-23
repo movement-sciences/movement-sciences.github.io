@@ -11,7 +11,7 @@
     "href": "all_modules.html",
     "title": "All modules",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Presenter\n        \n         \n          Complexity\n        \n         \n          Topic\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nPresenter\n\n\nComplexity\n\n\nTopic\n\n\n\n\n\n\nData visualization and statistical inference for biomechanics\n\n\nDr. James Finley\n\n\nbeginner\n\n\ndata analysis\n\n\n\n\nJoint-level work loops\n\n\nDr. Greg Sawicki\n\n\nintermediate\n\n\nmuscle physiology, exp techniques\n\n\n\n\nSensory feedback\n\n\nDr. JF, Dr. KS\n\n\nintermediate\n\n\nmotor control\n\n\n\n\nThe brain and balance\n\n\nDr. Lena Ting\n\n\nintermediate\n\n\nsensorimotor control\n\n\n\n\nUltrasound Imaging\n\n\nDr. Luke Jessup\n\n\nintermediate\n\n\nexperimental techniques\n\n\n\n\nWork Loops 101\n\n\nDr. Simon Sponberg & Casey King\n\n\nbeginner\n\n\nexperimental techniques\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Presenter\n        \n         \n          Complexity\n        \n         \n          Topic\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nPresenter\n\n\nComplexity\n\n\nTopic\n\n\n\n\n\n\nBalance, stability, and agility\n\n\nDr. Greg Sawicki\n\n\nbeginner\n\n\nmotor control\n\n\n\n\nData visualization and statistical inference for biomechanics\n\n\nDr. James Finley\n\n\nbeginner\n\n\ndata analysis\n\n\n\n\nData visualization and statistical inference for biomechanics\n\n\nDr. James Finley\n\n\nbeginner\n\n\ndata analysis\n\n\n\n\nData visualization and statistical inference for biomechanics\n\n\nDr. James Finley\n\n\nbeginner\n\n\ndata analysis\n\n\n\n\nData visualization and statistical inference for biomechanics\n\n\nDr. James Finley\n\n\nbeginner\n\n\ndata analysis\n\n\n\n\nData visualization and statistical inference for biomechanics\n\n\nDr. James Finley\n\n\nbeginner\n\n\ndata analysis\n\n\n\n\nData visualization and statistical inference for biomechanics\n\n\nDr. James Finley\n\n\nbeginner\n\n\ndata analysis\n\n\n\n\nData visualization and statistical inference for biomechanics\n\n\nDr. James Finley\n\n\nbeginner\n\n\ndata analysis\n\n\n\n\nJoint-level work loops\n\n\nDr. Greg Sawicki\n\n\nintermediate\n\n\nmuscle physiology, exp techniques\n\n\n\n\nScaling and dimensional analysis\n\n\nDr. Monica Daley\n\n\nbeginner\n\n\n???\n\n\n\n\nSensory feedback\n\n\nDr. JF, Dr. KS\n\n\nintermediate\n\n\nmotor control\n\n\n\n\nThe brain and balance\n\n\nDr. Lena Ting\n\n\nintermediate\n\n\nsensorimotor control\n\n\n\n\nUltrasound Imaging\n\n\nDr. Luke Jessup\n\n\nintermediate\n\n\nexperimental techniques\n\n\n\n\nWork Loops 101\n\n\nDr. Simon Sponberg & Casey King\n\n\nbeginner\n\n\nexperimental techniques\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -243,5 +243,187 @@
     "title": "Data visualization and statistical inference for biomechanics",
     "section": "Workshop",
     "text": "Workshop\n\n\nPresented by: Dr. James Finley\nWe can include Matlab script, though it won’t show outputs:\nx = 1\ny = 2\nz = x+y\nz\nThis is an example of an R script. It will print the output:\n\nx=1\ny=2\nz = x+y\nz\n\n[1] 3"
+  },
+  {
+    "objectID": "all-modules/scaling-dimensional-analysis.html",
+    "href": "all-modules/scaling-dimensional-analysis.html",
+    "title": "Scaling and dimensional analysis",
+    "section": "",
+    "text": "Describe the basic energy fluctuation patterns of walking and running in terrestrial gaits, as approximated by spring-loaded inverted pendulum models\nUnderstand the basic principles of scaling with geometric similarity (or isometry), and state predictions for changes in strength and loading with increasing body size under the predictions of geometric similarity.\nState the dynamic similarity hypothesis, and be able to generate predictions for dimensionless quantities according to the predictions of dynamic similarity. \nUse an example data set on gait of running birds to investigate how stride length and stride frequency vary with size, and visualize how the variation collapses when data are normalized to dimensionless quantities."
+  },
+  {
+    "objectID": "all-modules/scaling-dimensional-analysis.html#learning-objectives",
+    "href": "all-modules/scaling-dimensional-analysis.html#learning-objectives",
+    "title": "Scaling and dimensional analysis",
+    "section": "",
+    "text": "Describe the basic energy fluctuation patterns of walking and running in terrestrial gaits, as approximated by spring-loaded inverted pendulum models\nUnderstand the basic principles of scaling with geometric similarity (or isometry), and state predictions for changes in strength and loading with increasing body size under the predictions of geometric similarity.\nState the dynamic similarity hypothesis, and be able to generate predictions for dimensionless quantities according to the predictions of dynamic similarity. \nUse an example data set on gait of running birds to investigate how stride length and stride frequency vary with size, and visualize how the variation collapses when data are normalized to dimensionless quantities."
+  },
+  {
+    "objectID": "all-modules/scaling-dimensional-analysis.html#workshop",
+    "href": "all-modules/scaling-dimensional-analysis.html#workshop",
+    "title": "Scaling and dimensional analysis",
+    "section": "Workshop",
+    "text": "Workshop\nPresented by: Dr. Monica Daley\n\n\nMatlab script description:\nx = 1\ny = 2\nz = x+y\nz"
+  },
+  {
+    "objectID": "all-modules/movement-exploration.html",
+    "href": "all-modules/movement-exploration.html",
+    "title": "Data visualization and statistical inference for biomechanics",
+    "section": "",
+    "text": "asdf\nasdf\nasdf"
+  },
+  {
+    "objectID": "all-modules/movement-exploration.html#learning-objectives",
+    "href": "all-modules/movement-exploration.html#learning-objectives",
+    "title": "Data visualization and statistical inference for biomechanics",
+    "section": "",
+    "text": "asdf\nasdf\nasdf"
+  },
+  {
+    "objectID": "all-modules/movement-exploration.html#workshop",
+    "href": "all-modules/movement-exploration.html#workshop",
+    "title": "Data visualization and statistical inference for biomechanics",
+    "section": "Workshop",
+    "text": "Workshop\n\n\nPresented by: Dr. James Finley\nWe can include Matlab script, though it won’t show outputs:\nx = 1\ny = 2\nz = x+y\nz\nThis is an example of an R script. It will print the output:\n\nx=1\ny=2\nz = x+y\nz\n\n[1] 3"
+  },
+  {
+    "objectID": "all-modules/simluating-movement.html",
+    "href": "all-modules/simluating-movement.html",
+    "title": "Data visualization and statistical inference for biomechanics",
+    "section": "",
+    "text": "asdf\nasdf\nasdf"
+  },
+  {
+    "objectID": "all-modules/simluating-movement.html#learning-objectives",
+    "href": "all-modules/simluating-movement.html#learning-objectives",
+    "title": "Data visualization and statistical inference for biomechanics",
+    "section": "",
+    "text": "asdf\nasdf\nasdf"
+  },
+  {
+    "objectID": "all-modules/simluating-movement.html#workshop",
+    "href": "all-modules/simluating-movement.html#workshop",
+    "title": "Data visualization and statistical inference for biomechanics",
+    "section": "Workshop",
+    "text": "Workshop\n\n\nPresented by: Dr. James Finley\nWe can include Matlab script, though it won’t show outputs:\nx = 1\ny = 2\nz = x+y\nz\nThis is an example of an R script. It will print the output:\n\nx=1\ny=2\nz = x+y\nz\n\n[1] 3"
+  },
+  {
+    "objectID": "all-modules/intro-mechs-musculoskeletal.html",
+    "href": "all-modules/intro-mechs-musculoskeletal.html",
+    "title": "Data visualization and statistical inference for biomechanics",
+    "section": "",
+    "text": "asdf\nasdf\nasdf"
+  },
+  {
+    "objectID": "all-modules/intro-mechs-musculoskeletal.html#learning-objectives",
+    "href": "all-modules/intro-mechs-musculoskeletal.html#learning-objectives",
+    "title": "Data visualization and statistical inference for biomechanics",
+    "section": "",
+    "text": "asdf\nasdf\nasdf"
+  },
+  {
+    "objectID": "all-modules/intro-mechs-musculoskeletal.html#workshop",
+    "href": "all-modules/intro-mechs-musculoskeletal.html#workshop",
+    "title": "Data visualization and statistical inference for biomechanics",
+    "section": "Workshop",
+    "text": "Workshop\n\n\nPresented by: Dr. James Finley\nWe can include Matlab script, though it won’t show outputs:\nx = 1\ny = 2\nz = x+y\nz\nThis is an example of an R script. It will print the output:\n\nx=1\ny=2\nz = x+y\nz\n\n[1] 3"
+  },
+  {
+    "objectID": "all-modules/balance-stability-agility.html",
+    "href": "all-modules/balance-stability-agility.html",
+    "title": "Balance, stability, and agility",
+    "section": "",
+    "text": "asdf\nasdf\nasdf"
+  },
+  {
+    "objectID": "all-modules/balance-stability-agility.html#learning-objectives",
+    "href": "all-modules/balance-stability-agility.html#learning-objectives",
+    "title": "Balance, stability, and agility",
+    "section": "",
+    "text": "asdf\nasdf\nasdf"
+  },
+  {
+    "objectID": "all-modules/balance-stability-agility.html#workshop",
+    "href": "all-modules/balance-stability-agility.html#workshop",
+    "title": "Balance, stability, and agility",
+    "section": "Workshop",
+    "text": "Workshop\n\n\nPresented by: Dr. James Finley\nWe can include Matlab script, though it won’t show outputs:\nx = 1\ny = 2\nz = x+y\nz\nThis is an example of an R script. It will print the output:\n\nx=1\ny=2\nz = x+y\nz\n\n[1] 3"
+  },
+  {
+    "objectID": "all-modules/computational-modeling-2025.html",
+    "href": "all-modules/computational-modeling-2025.html",
+    "title": "Data visualization and statistical inference for biomechanics",
+    "section": "",
+    "text": "asdf\nasdf\nasdf"
+  },
+  {
+    "objectID": "all-modules/computational-modeling-2025.html#learning-objectives",
+    "href": "all-modules/computational-modeling-2025.html#learning-objectives",
+    "title": "Data visualization and statistical inference for biomechanics",
+    "section": "",
+    "text": "asdf\nasdf\nasdf"
+  },
+  {
+    "objectID": "all-modules/computational-modeling-2025.html#workshop",
+    "href": "all-modules/computational-modeling-2025.html#workshop",
+    "title": "Data visualization and statistical inference for biomechanics",
+    "section": "Workshop",
+    "text": "Workshop\n\n\nPresented by: Dr. James Finley\nWe can include Matlab script, though it won’t show outputs:\nx = 1\ny = 2\nz = x+y\nz\nThis is an example of an R script. It will print the output:\n\nx=1\ny=2\nz = x+y\nz\n\n[1] 3"
+  },
+  {
+    "objectID": "all-modules/series-elasticity.html",
+    "href": "all-modules/series-elasticity.html",
+    "title": "Data visualization and statistical inference for biomechanics",
+    "section": "",
+    "text": "asdf\nasdf\nasdf"
+  },
+  {
+    "objectID": "all-modules/series-elasticity.html#learning-objectives",
+    "href": "all-modules/series-elasticity.html#learning-objectives",
+    "title": "Data visualization and statistical inference for biomechanics",
+    "section": "",
+    "text": "asdf\nasdf\nasdf"
+  },
+  {
+    "objectID": "all-modules/series-elasticity.html#workshop",
+    "href": "all-modules/series-elasticity.html#workshop",
+    "title": "Data visualization and statistical inference for biomechanics",
+    "section": "Workshop",
+    "text": "Workshop\n\n\nPresented by: Dr. James Finley\nWe can include Matlab script, though it won’t show outputs:\nx = 1\ny = 2\nz = x+y\nz\nThis is an example of an R script. It will print the output:\n\nx=1\ny=2\nz = x+y\nz\n\n[1] 3"
+  },
+  {
+    "objectID": "all-modules/material-props-in-biomechanics.html",
+    "href": "all-modules/material-props-in-biomechanics.html",
+    "title": "Data visualization and statistical inference for biomechanics",
+    "section": "",
+    "text": "asdf\nasdf\nasdf"
+  },
+  {
+    "objectID": "all-modules/material-props-in-biomechanics.html#learning-objectives",
+    "href": "all-modules/material-props-in-biomechanics.html#learning-objectives",
+    "title": "Data visualization and statistical inference for biomechanics",
+    "section": "",
+    "text": "asdf\nasdf\nasdf"
+  },
+  {
+    "objectID": "all-modules/material-props-in-biomechanics.html#workshop",
+    "href": "all-modules/material-props-in-biomechanics.html#workshop",
+    "title": "Data visualization and statistical inference for biomechanics",
+    "section": "Workshop",
+    "text": "Workshop\n\n\nPresented by: Dr. James Finley\nWe can include Matlab script, though it won’t show outputs:\nx = 1\ny = 2\nz = x+y\nz\nThis is an example of an R script. It will print the output:\n\nx=1\ny=2\nz = x+y\nz\n\n[1] 3"
+  },
+  {
+    "objectID": "all-modules/scaling-dimensional-analysis.html#files-used-in-this-workshop",
+    "href": "all-modules/scaling-dimensional-analysis.html#files-used-in-this-workshop",
+    "title": "Scaling and dimensional analysis",
+    "section": "Files used in this workshop",
+    "text": "Files used in this workshop\nDownload the Matlab code and example data files used in this workshop:\n\nMatlab script\nBirn_Jeffery_Daley_Table1.xlsx\nCompiled_Data_SP_SL.xlsx\nLiteratureGaitDataSummary.xlsx"
+  },
+  {
+    "objectID": "all-modules/scaling-dimensional-analysis.html#additional-reading",
+    "href": "all-modules/scaling-dimensional-analysis.html#additional-reading",
+    "title": "Scaling and dimensional analysis",
+    "section": "Additional reading",
+    "text": "Additional reading\nAlexander 1983\nMcMahon and Cheng 1990\nDaley and Birn-Jeffery 2018"
   }
 ]

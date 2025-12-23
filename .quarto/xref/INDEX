@@ -73,5 +73,29 @@
   },
   "all-modules/brain-and-balance.qmd": {
     "brain-and-balance.html": "97584894"
+  },
+  "all-modules/scaling-dimensional-analysis.qmd": {
+    "scaling-dimensional-analysis.html": "b1f38945"
+  },
+  "all-modules/balance-stability-agility.qmd": {
+    "balance-stability-agility.html": "c9e24957"
+  },
+  "all-modules/intro-mechs-musculoskeletal.qmd": {
+    "intro-mechs-musculoskeletal.html": "904c48b7"
+  },
+  "all-modules/computational-modeling-2025.qmd": {
+    "computational-modeling-2025.html": "9b426056"
+  },
+  "all-modules/simluating-movement.qmd": {
+    "simluating-movement.html": "45531354"
+  },
+  "all-modules/series-elasticity.qmd": {
+    "series-elasticity.html": "63f04f60"
+  },
+  "all-modules/movement-exploration.qmd": {
+    "movement-exploration.html": "733957d0"
+  },
+  "all-modules/material-props-in-biomechanics.qmd": {
+    "material-props-in-biomechanics.html": "ca313ce4"
   }
 }
