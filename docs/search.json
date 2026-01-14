@@ -11,7 +11,7 @@
     "href": "all_modules.html",
     "title": "All modules",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Presenter\n        \n         \n          Complexity\n        \n         \n          Topic\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nPresenter\n\n\nComplexity\n\n\nTopic\n\n\n\n\n\n\nBalance, stability, and agility\n\n\nDr. Greg Sawicki\n\n\n \n\n\n\n\n\n\n\nComputational modeling\n\n\nDr. Bert Tanner\n\n\n \n\n\n\n\n\n\n\nData visualization and statistical inference for biomechanics\n\n\nDr. James Finley\n\n\nbeginner\n\n\ndata analysis\n\n\n\n\nIntro to the mechanics of the musculoskeletal system\n\n\nDr. Katie Knaus\n\n\nbeginner\n\n\nbiomechanics\n\n\n\n\nJoint-level work loops\n\n\nDr. Greg Sawicki\n\n\nintermediate\n\n\nmuscle physiology, exp techniques\n\n\n\n\nMaterial properties in biomechanics\n\n\nDr. Kiisa Nishikawa\n\n\n \n\n\n\n\n\n\n\nMovement exploration\n\n\nDr. Jill McNitt-Gray & Dr. Kelli Sharp\n\n\nbeginner\n\n\nexp design\n\n\n\n\nScaling and dimensional analysis\n\n\nDr. Monica Daley\n\n\nbeginner\n\n\n\n\n\n\n\nSensory feedback\n\n\nDr. James Finley, Dr. Kelli Sharp\n\n\n \n\n\n\n\n\n\n\nSeries elasticity\n\n\nDr. Manny Azizi\n\n\n \n\n\n\n\n\n\n\nSo you want to simulate movement?\n\n\nDr. Christian Hubicki\n\n\nbeginner\n\n\n\n\n\n\n\nSo you want to simulate movement?\n\n\nDr. Christian Hubicki\n\n\nbeginner\n\n\n\n\n\n\n\nThe brain and balance\n\n\nDr. Lena Ting\n\n\nintermediate\n\n\nsensorimotor control\n\n\n\n\nUltrasound Imaging\n\n\nDr. Luke Jessup\n\n\nintermediate\n\n\nexperimental techniques\n\n\n\n\nWork Loops 101\n\n\nDr. Simon Sponberg & Casey King\n\n\nbeginner\n\n\nexperimental techniques\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Presenter\n        \n         \n          Complexity\n        \n         \n          Topic\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nPresenter\n\n\nComplexity\n\n\nTopic\n\n\n\n\n\n\nBalance, stability, and agility\n\n\nDr. Greg Sawicki\n\n\n \n\n\n\n\n\n\n\nComputational modeling\n\n\nDr. Bert Tanner\n\n\n \n\n\n\n\n\n\n\nData visualization and statistical inference for biomechanics\n\n\nDr. James Finley\n\n\nbeginner\n\n\ndata analysis\n\n\n\n\nExample\n\n\nDr. Jane Doe\n\n\nadvanced\n\n\nbiomechanics\n\n\n\n\nIntro to the mechanics of the musculoskeletal system\n\n\nDr. Katie Knaus\n\n\nbeginner\n\n\nbiomechanics\n\n\n\n\nJoint-level work loops\n\n\nDr. Greg Sawicki\n\n\nintermediate\n\n\nmuscle physiology, exp techniques\n\n\n\n\nMaterial properties in biomechanics\n\n\nDr. Kiisa Nishikawa\n\n\n \n\n\n\n\n\n\n\nMovement exploration\n\n\nDr. Jill McNitt-Gray & Dr. Kelli Sharp\n\n\nbeginner\n\n\nexp design\n\n\n\n\nScaling and dimensional analysis\n\n\nDr. Monica Daley\n\n\nbeginner\n\n\n\n\n\n\n\nSensory feedback\n\n\nDr. James Finley, Dr. Kelli Sharp\n\n\n \n\n\n\n\n\n\n\nSeries elasticity\n\n\nDr. Manny Azizi\n\n\n \n\n\n\n\n\n\n\nSo you want to simulate movement?\n\n\nDr. Christian Hubicki\n\n\nbeginner\n\n\n\n\n\n\n\nThe brain and balance\n\n\nDr. Lena Ting\n\n\nintermediate\n\n\nsensorimotor control\n\n\n\n\nUltrasound imaging\n\n\nDr. Luke Jessup\n\n\nintermediate\n\n\nexperimental techniques\n\n\n\n\nWork Loops 101\n\n\nDr. Simon Sponberg & Casey King\n\n\nbeginner\n\n\nexperimental techniques\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -205,14 +205,14 @@
   {
     "objectID": "all-modules/ultrasound-imaging.html",
     "href": "all-modules/ultrasound-imaging.html",
-    "title": "Ultrasound Imaging",
+    "title": "Ultrasound imaging",
     "section": "",
     "text": "TBD"
   },
   {
     "objectID": "all-modules/ultrasound-imaging.html#learning-objectives",
     "href": "all-modules/ultrasound-imaging.html#learning-objectives",
-    "title": "Ultrasound Imaging",
+    "title": "Ultrasound imaging",
     "section": "",
     "text": "TBD"
   },
@@ -233,7 +233,7 @@
   {
     "objectID": "all-modules/ultrasound-imaging.html#workshop",
     "href": "all-modules/ultrasound-imaging.html#workshop",
-    "title": "Ultrasound Imaging",
+    "title": "Ultrasound imaging",
     "section": "Workshop",
     "text": "Workshop\n\n\nPresented by: Dr. Luke Jessup"
   },
@@ -478,22 +478,85 @@
   {
     "objectID": "all-modules/Example.html",
     "href": "all-modules/Example.html",
-    "title": "So you want to simulate movement?",
+    "title": "Example",
     "section": "",
-    "text": "TBD"
+    "text": "asdf\nasdf\nasdf"
   },
   {
     "objectID": "all-modules/Example.html#learning-objectives",
     "href": "all-modules/Example.html#learning-objectives",
-    "title": "So you want to simulate movement?",
+    "title": "Example",
     "section": "",
-    "text": "TBD"
+    "text": "asdf\nasdf\nasdf"
   },
   {
     "objectID": "all-modules/Example.html#workshop",
     "href": "all-modules/Example.html#workshop",
-    "title": "So you want to simulate movement?",
+    "title": "Example",
     "section": "Workshop",
-    "text": "Workshop\n\n\nPresented by: Dr. Christian Hubicki\nWe can include Matlab script, though it won’t show outputs:\nx = 1\ny = 2\nz = x+y\nz\nThis is an example of an R script. It will print the output:\n\nx=1\ny=2\nz = x+y\nz\n\n[1] 3"
+    "text": "Workshop\n\n\nPresented by: Dr. Jane Doe"
+  },
+  {
+    "objectID": "all-modules/Example.html#before-you-begin",
+    "href": "all-modules/Example.html#before-you-begin",
+    "title": "Example",
+    "section": "Before you begin:",
+    "text": "Before you begin:\nDownload the Matlab code and example data files used in this workshop:\n\nMatlab script"
+  },
+  {
+    "objectID": "all-modules/Example.html#heading-1",
+    "href": "all-modules/Example.html#heading-1",
+    "title": "Example",
+    "section": "Heading 1",
+    "text": "Heading 1\nWe can include in-text Matlab script, though it won’t show outputs:\nx = 1\ny = 2\nz = x+y\nz\nThis is an example of an R script. It will print the output:\n\nx=1\ny=2\nz = x+y\nz\n\n[1] 3"
+  },
+  {
+    "objectID": "all-modules/Example.html#heading-2",
+    "href": "all-modules/Example.html#heading-2",
+    "title": "Example",
+    "section": "Heading 2",
+    "text": "Heading 2\nAsdf"
+  },
+  {
+    "objectID": "all-modules/Example.html#additional-reading",
+    "href": "all-modules/Example.html#additional-reading",
+    "title": "Example",
+    "section": "Additional reading",
+    "text": "Additional reading\nAlexander 1983\nMcMahon and Cheng 1990\nDaley and Birn-Jeffery 2018"
+  },
+  {
+    "objectID": "paths-folder/InProgress/muscle-phys-path.html",
+    "href": "paths-folder/InProgress/muscle-phys-path.html",
+    "title": "Muscle Physiology",
+    "section": "",
+    "text": "Coming soon!"
+  },
+  {
+    "objectID": "paths-folder/InProgress/modeling-path.html",
+    "href": "paths-folder/InProgress/modeling-path.html",
+    "title": "Computational models and simulations",
+    "section": "",
+    "text": "Coming soon!"
+  },
+  {
+    "objectID": "paths-folder/InProgress/motor-control-path.html",
+    "href": "paths-folder/InProgress/motor-control-path.html",
+    "title": "Neural and Sensorimotor Control of Movement",
+    "section": "",
+    "text": "Coming soon!"
+  },
+  {
+    "objectID": "paths-folder/InProgress/intro-pathway.html",
+    "href": "paths-folder/InProgress/intro-pathway.html",
+    "title": "Intro to Movement Sciences",
+    "section": "",
+    "text": "Coming soon!"
+  },
+  {
+    "objectID": "paths-folder/InProgress/data-analysis-path.html",
+    "href": "paths-folder/InProgress/data-analysis-path.html",
+    "title": "Data Analysis in Movement Sciences",
+    "section": "",
+    "text": "Coming soon!"
   }
 ]

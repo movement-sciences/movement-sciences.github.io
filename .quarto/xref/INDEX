@@ -100,5 +100,20 @@
   },
   "all-modules/Example.qmd": {
     "Example.html": "9c656e23"
+  },
+  "paths-folder/InProgress/motor-control-path.qmd": {
+    "motor-control-path.html": "8e14b46d"
+  },
+  "paths-folder/InProgress/intro-pathway.qmd": {
+    "intro-pathway.html": "11463883"
+  },
+  "paths-folder/InProgress/modeling-path.qmd": {
+    "modeling-path.html": "d6274877"
+  },
+  "paths-folder/InProgress/data-analysis-path.qmd": {
+    "data-analysis-path.html": "903617b6"
+  },
+  "paths-folder/InProgress/muscle-phys-path.qmd": {
+    "muscle-phys-path.html": "fe468c3b"
   }
 }
