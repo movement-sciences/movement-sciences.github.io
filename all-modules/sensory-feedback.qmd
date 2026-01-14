@@ -1,37 +1,19 @@
 ---
 title: "Sensory feedback"
 toc: false
-presenter: [Dr. JF, Dr. KS]
-complexity: intermediate
-topic: [motor control]
+presenter: [Dr. James Finley, Dr. Kelli Sharp]
+complexity: 
+topic: []
 ---
 
 ## Learning objectives
 
-1.  asdf
-2.  asdf
-3.  asdf
+TBD
+
+## Workshop
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oF_kEXJJbjI?si=28HD3JOWjLaQPxvI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 
 </iframe>
 
-***Presented by:*** *asdf*
-
-We can include Matlab script, though it won't show outputs:
-
-``` matlab
-x = 1
-y = 2
-z = x+y
-z
-```
-
-This is an example of an R script. It will print the output:
-
-```{r}
-x=1
-y=2
-z = x+y
-z
-```
+***Presented by:*** *Dr. James Finley & Dr. Kelli Sharp*

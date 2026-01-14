@@ -20,40 +20,6 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-/* CSS for syntax highlighting */
-pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { line-height: 1.25; }
-pre > code.sourceCode > span:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode > span { color: inherit; text-decoration: inherit; }
-div.sourceCode { margin: 1em 0; }
-pre.sourceCode { margin: 0; }
-@media screen {
-div.sourceCode { overflow: auto; }
-}
-@media print {
-pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
-}
-pre.numberSource code
-  { counter-reset: source-line 0; }
-pre.numberSource code > span
-  { position: relative; left: -4em; counter-increment: source-line; }
-pre.numberSource code > span > a:first-child::before
-  { content: counter(source-line);
-    position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; display: inline-block;
-    -webkit-touch-callout: none; -webkit-user-select: none;
-    -khtml-user-select: none; -moz-user-select: none;
-    -ms-user-select: none; user-select: none;
-    padding: 0 4px; width: 4em;
-  }
-pre.numberSource { margin-left: 3em;  padding-left: 4px; }
-div.sourceCode
-  {   }
-@media screen {
-pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
-}
 </style>
 
 
@@ -185,27 +151,19 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <li><p>State the dynamic similarity hypothesis, and be able to generate predictions for dimensionless quantities according to the predictions of dynamic similarity.&nbsp;</p></li>
 <li><p>Use an example data set on gait of running birds to investigate how stride length and stride frequency vary with size, and visualize how the variation collapses when data are normalized to dimensionless quantities.</p></li>
 </ol>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ySWWyKLoL7M?si=SrzsyBw7GMkP_Z4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+</iframe>
+<p><strong><em>Presented by:</em></strong> <em>Dr.&nbsp;Monica Daley</em></p>
 </section>
-<section id="files-used-in-this-workshop" class="level2">
-<h2 class="anchored" data-anchor-id="files-used-in-this-workshop">Files used in this workshop</h2>
+<section id="explore-these-concepts-using-the-example-data-sets-from-the-video-above" class="level2">
+<h2 class="anchored" data-anchor-id="explore-these-concepts-using-the-example-data-sets-from-the-video-above">Explore these concepts using the example data sets from the video above</h2>
 <p>Download the Matlab code and example data files used in this workshop:</p>
 <ul>
 <li><p><a href="..//resources/ScalingDimensionalAnalysis/ComparativeAvianScaling_Allbirds_25.m">Matlab script</a></p></li>
-<li><p><a href="..//resources/ScalingDimensionalAnalysis/Birn_Jeffery_Daley_Table1.xlsx">Birn_Jeffery_Daley_Table1.xlsx</a></p></li>
-<li><p><a href="..//resources/ScalingDimensionalAnalysis/Compiled_Data_SP_SL.xlsx">Compiled_Data_SP_SL.xlsx</a></p></li>
-<li><p><a href="..//resources/ScalingDimensionalAnalysis/LiteratureGaitDataSummary.xlsx">LiteratureGaitDataSummary.xlsx</a></p></li>
+<li><p>Metadata for compiled data sets: <a href="..//resources/ScalingDimensionalAnalysis/Birn_Jeffery_Daley_Table1.xlsx">Birn_Jeffery_Daley_Table1.xlsx</a></p></li>
+<li><p>Speed, stride period and stride length for every species in the data set: <a href="..//resources/ScalingDimensionalAnalysis/Compiled_Data_SP_SL.xlsx">Compiled_Data_SP_SL.xlsx</a></p></li>
+<li><p>Data summary file: <a href="..//resources/ScalingDimensionalAnalysis/LiteratureGaitDataSummary.xlsx">LiteratureGaitDataSummary.xlsx</a></p></li>
 </ul>
-</section>
-<section id="workshop" class="level2">
-<h2 class="anchored" data-anchor-id="workshop">Workshop</h2>
-<p><strong><em>Presented by:</em></strong> <em>Dr.&nbsp;Monica Daley</em></p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ySWWyKLoL7M?si=SrzsyBw7GMkP_Z4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
-</iframe>
-<p>Matlab script description:</p>
-<div class="sourceCode" id="cb1"><pre class="sourceCode matlab code-with-copy"><code class="sourceCode matlab"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="va">x</span> <span class="op">=</span> <span class="fl">1</span></span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="va">y</span> <span class="op">=</span> <span class="fl">2</span></span>
-<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="va">z</span> <span class="op">=</span> <span class="va">x</span><span class="op">+</span><span class="va">y</span></span>
-<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="va">z</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </section>
 <section id="additional-reading" class="level2">
 <h2 class="anchored" data-anchor-id="additional-reading">Additional reading</h2>

@@ -3,7 +3,7 @@ title: "Scaling and dimensional analysis"
 toc: false
 presenter: [Dr. Monica Daley]
 complexity: beginner
-topic: [???]
+topic: []
 ---
 
 ## Learning objectives
@@ -16,34 +16,23 @@ topic: [???]
 
 4.  Use an example data set on gait of running birds to investigate how stride length and stride frequency vary with size, and visualize how the variation collapses when data are normalized to dimensionless quantities.
 
-## Files used in this workshop
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ySWWyKLoL7M?si=SrzsyBw7GMkP_Z4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+</iframe>
+
+***Presented by:*** *Dr. Monica Daley*
+
+## Explore these concepts using the example data sets from the video above
 
 Download the Matlab code and example data files used in this workshop:
 
 -   [Matlab script](..//resources/ScalingDimensionalAnalysis/ComparativeAvianScaling_Allbirds_25.m)
 
--   [Birn_Jeffery_Daley_Table1.xlsx](..//resources/ScalingDimensionalAnalysis/Birn_Jeffery_Daley_Table1.xlsx)
+-   Metadata for compiled data sets: [Birn_Jeffery_Daley_Table1.xlsx](..//resources/ScalingDimensionalAnalysis/Birn_Jeffery_Daley_Table1.xlsx)
 
--   [Compiled_Data_SP_SL.xlsx](..//resources/ScalingDimensionalAnalysis/Compiled_Data_SP_SL.xlsx)
+-   Speed, stride period and stride length for every species in the data set: [Compiled_Data_SP_SL.xlsx](..//resources/ScalingDimensionalAnalysis/Compiled_Data_SP_SL.xlsx)
 
--   [LiteratureGaitDataSummary.xlsx](..//resources/ScalingDimensionalAnalysis/LiteratureGaitDataSummary.xlsx)
-
-## Workshop 
-
-***Presented by:*** *Dr. Monica Daley*
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ySWWyKLoL7M?si=SrzsyBw7GMkP_Z4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-
-</iframe>
-
-Matlab script description:
-
-``` matlab
-x = 1
-y = 2
-z = x+y
-z
-```
+-   Data summary file: [LiteratureGaitDataSummary.xlsx](..//resources/ScalingDimensionalAnalysis/LiteratureGaitDataSummary.xlsx)
 
 ## Additional reading
 

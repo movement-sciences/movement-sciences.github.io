@@ -17,3 +17,21 @@ TBD
 </iframe>
 
 ***Presented by:*** *Dr. Christian Hubicki*
+
+We can include Matlab script, though it won't show outputs:
+
+``` matlab
+x = 1
+y = 2
+z = x+y
+z
+```
+
+This is an example of an R script. It will print the output:
+
+```{r}
+x=1
+y=2
+z = x+y
+z
+```

@@ -8,9 +8,7 @@ topic: [sensorimotor control]
 
 ## Learning objectives
 
-1.  asdf
-2.  asdf
-3.  asdf
+TBD
 
 ## Workshop
 
@@ -19,27 +17,3 @@ topic: [sensorimotor control]
 </iframe>
 
 ***Presented by:*** *Dr. Lena Ting*
-
-You can include links to files that are stored on the Github repo:
-
-[Download demo MATLAB code](..//resources/example/HelloWorld.m)
-
-[Download a PDF](..//resources/example/How%20to%20read%20a%20scientific%20paper.pdf)
-
-We can include Matlab script, though it won't show outputs:
-
-``` matlab
-x = 1
-y = 2
-z = x+y
-z
-```
-
-This is an example of an R script. It will print the output:
-
-```{r}
-x=1
-y=2
-z = x+y
-z
-```

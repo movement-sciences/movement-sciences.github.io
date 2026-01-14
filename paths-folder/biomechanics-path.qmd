@@ -30,7 +30,7 @@ To explore this topic, we will guide you through the following modules...
 
 [Download demo MATLAB code](..//resources/example/HelloWorld.m)
 
-[Download a PDF](..//resources/example/How to read a scientific paper.pdf)
+[Download a PDF](..//resources/example/How%20to%20read%20a%20scientific%20paper.pdf)
 
 ## Workshop #2 Title
 

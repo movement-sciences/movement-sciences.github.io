@@ -1,39 +1,19 @@
 ---
-title: "Data visualization and statistical inference for biomechanics"
+title: "Computational modeling"
 toc: false
-presenter: [Dr. James Finley]
-complexity: beginner
-topic: [data analysis]
+presenter: [Dr. Bert Tanner]
+complexity: 
+topic: []
 ---
 
 ## Learning objectives
 
-1.  asdf
-2.  asdf
-3.  asdf
+TBD
 
 ## Workshop
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ixKBKdAvd8Q?si=pwB4KsXiGOAIPk_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VXU6B909z1s?si=vcbu_83tM-mkTYoi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 
 </iframe>
 
-***Presented by:*** *Dr. James Finley*
-
-We can include Matlab script, though it won't show outputs:
-
-``` matlab
-x = 1
-y = 2
-z = x+y
-z
-```
-
-This is an example of an R script. It will print the output:
-
-```{r}
-x=1
-y=2
-z = x+y
-z
-```
+***Presented by:*** *Dr. Bert Tanner*
